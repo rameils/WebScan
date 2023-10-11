@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "https://github.com/rameils/WebScan",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
